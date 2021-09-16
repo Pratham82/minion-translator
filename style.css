@@ -253,3 +253,8 @@ footer a {
     margin-left: 100px;
   }
 }
+
+.social-link {
+  color: white;
+  font-size: 40px;
+}
